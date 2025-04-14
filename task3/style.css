@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    color: #8CDD70;
+    font-size: 24px;
+  }
+
+  h3 {
+    margin: 0 20%;
+    align-items: center;
+  }
+
+  body {
+    background-color: #111c22;
+    align-items: center;
+    margin: 0;
+  }
+  
+  .mr1 {
+    margin-right: 60px;
+  }
+  .mr2 {
+    margin-right: 200px;
+  }
+
+
+  label {
+    display: block;
+    margin-right: 20%;
+  }
+
+  div {
+    display: flex;
+	flex-direction: row;
+    margin: 10px 0;
+  }
+
+  form {
+    display: flex;
+	flex-direction: column;
+    background-color: #116644;
+    margin: auto 20%;
+    padding: 10px 60px 30px;
+    max-width: 960px;
+    background-color: rgba(20,56,22,0.5);
+  }
+  
+  input, option, textarea { background-color: #f1ffc8; color: rgb(0, 0, 0); }
+  
