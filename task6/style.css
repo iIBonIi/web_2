@@ -1,0 +1,122 @@
+* {
+    margin: 0;
+    color: #8CDD70;
+    font-size: 14px;
+  }
+  
+  .marg {
+    margin: 2px 10px;
+  }
+
+  .row {
+    display: flex;
+    flex-direction: row;
+  }
+
+  .align {
+    display: flex;
+    align-items: center;
+  }
+
+  select {
+    height: 50px;
+  }
+
+  .change input{
+    width: 100px;
+  }
+
+  .date input, .name input {
+    width: 120px;
+    padding: 5px 10px;
+  }
+
+  .phone input, .email input{
+    width: 100px;
+    padding: 5px 10px;
+  }
+
+  body {
+    background-color: #111c22;
+  }
+
+  table { 
+    border-collapse: collapse; 
+    text-align: center;
+    margin: 0 auto ;
+  }
+
+  td, th {
+    padding: 5px 10px;
+    border: 1px solid #116644; 
+    background-color: rgba(20,56,22,0.3);
+  }
+
+  th {
+    background: #197a36;
+  }
+
+  select {
+    width: 80px;
+    padding: 10px;
+    text-align: center;
+    font-size: large;
+  }
+
+  .date{
+    width:100px;
+  }
+
+  .langs{
+    text-align: left;
+  }
+
+  td .change{
+    height: 60px;
+    display: flex;
+    flex-direction: column;
+  } 
+
+  .change{
+    width: 100px;
+  }
+
+  .button_save{
+    margin-bottom: 15px ;
+  }
+
+  .column-item input{
+    padding: 5px;
+    width: 60px;
+  }
+
+  h1 {
+    text-align: center;
+    padding-bottom: 1px;
+    font-size: 20;
+  }
+  h3 {
+    text-align: center;
+    margin: 60px auto 15px;
+    padding-top: 40px;
+    padding-bottom: 1px;
+    
+  }
+
+  .msgbox {
+    padding: 10px 0px 25px 10px;
+  }
+
+  .langProg{
+    margin: 0;
+  }
+
+  .langStat{
+    margin-left: 40px;
+  }
+
+  .bio{
+    padding: 10px;
+  }
+
+input, option, textarea { background-color: #c9ebc2; color: rgb(0, 0, 0); }
